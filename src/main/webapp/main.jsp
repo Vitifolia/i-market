@@ -157,7 +157,7 @@ body {
 
 #nav>ul>li.current>a {
 	background: #217214a3 !important;
-	color: #fff !important !important;
+	color: #fff !important;
 	font-weight: 700 !important;
 }
 
